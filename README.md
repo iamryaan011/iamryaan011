@@ -5,4 +5,4 @@ Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que me
 
 ### Redes Sociais
 
-<p align="left"> <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32"](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) /></a>
