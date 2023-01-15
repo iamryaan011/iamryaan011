@@ -1,4 +1,4 @@
-Hi ! My name is Ryan Lima
+Hi ! My name is <strong>Ryan Lima</strong>
 =================================================================================================================================
 
 Front End Developer
