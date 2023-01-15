@@ -3,7 +3,9 @@
 ### Quem é ''Ryan''?
 Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para minha vida.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+</div>
 
 <hr/>
 
