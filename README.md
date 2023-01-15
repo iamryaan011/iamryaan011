@@ -1,4 +1,4 @@
-### Olá ! Eu me chamo Ryan Lima e sou um Dev Front-End. 👋
+### Ryan Lima - Dev Front-End. 
 
 ### Sobre Mim?
 <p align="justify">
