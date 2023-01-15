@@ -5,5 +5,4 @@ Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que me
 
 ### Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)(https://www.instagram.com/iamryaan011/)]
+<p align="left"> <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
