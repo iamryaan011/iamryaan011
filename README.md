@@ -3,9 +3,6 @@
 ### Quem é ''Ryan''?
 Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para minha vida.
 
-### Redes Sociais
-
-
 <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
