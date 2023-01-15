@@ -1,5 +1,5 @@
 ### Olá 👋! Eu me chamo Ryan Lima e sou um Dev Front-End.
 
-### Introduction
-Programming student passionate in technology. Almost 1 year ago (8 months) that I dived headlong into this world of programming and decided that for my life.
+### Introdução
+Eu sou um Estudante de programação apaixonado por tecnologia. Há 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para minha vida.
 
