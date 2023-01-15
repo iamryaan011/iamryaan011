@@ -5,9 +5,7 @@ Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que me
 
 ### Tecnologias
 
-<div>
-  https://github-readme-stats.vercel.app/api/top-langs/?username=iamryaan011)](https://github.com/anuraghazra/github-readme-stats
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
