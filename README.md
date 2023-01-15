@@ -1,7 +1,6 @@
-<h1>Hi ! My name is Ryan Lima</h1>
+<h1>Hi! My name is Ryan Lima.</h1>
 
-Front End Developer
--------------------
+<h2>Front End Developer</h2>
 
 Programming student passionate in technology. Almost 1 year ago (8 months) that I dived headlong into this world of programming and decided that for my life.
 
