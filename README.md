@@ -3,9 +3,7 @@
 ### Quem é ''Ryan''?
 Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para minha vida.
 
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamryaan011&show_icons=true&theme=dark)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamryaan011&show_icons=true&theme=dark)
 
 <div>
   <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer">
