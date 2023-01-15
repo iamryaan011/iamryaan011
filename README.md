@@ -1,10 +1,8 @@
 ### Olá! Eu sou o Ryan. 👋
 
 <p align="justify">
-  Eu sou um Estudante de programação <strong>Front-End</strong> apaixonado por tecnologia. Tem 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para a minha vida.
+  Eu sou um Estudante de programação <strong>Front-End</strong> apaixonado por tecnologia. Tem 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para a minha vida. Tenho conhecimento em algumas tecnologias, mas as que se destacam são:
 </p>
-
-### Tecnologias
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
