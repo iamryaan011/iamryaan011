@@ -6,7 +6,7 @@ Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que me
 ### Tecnologias
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={iamryaan011}&theme=blue-green"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamryaan011&theme=blue-green"/> 
 </div>
 
 <div>
