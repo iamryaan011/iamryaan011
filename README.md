@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ryan. 👋
 
 <p align="justify">
-Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para minha vida.
+Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para minha vida. Hoje em dia continuo como estudante, porém 
 </p>
 
 ### Tecnologias
