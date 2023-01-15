@@ -6,7 +6,7 @@ Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que me
 ### Tecnologias
 
 <div>
-  [Top Languages Card](#top-languages-card)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <hr/>
