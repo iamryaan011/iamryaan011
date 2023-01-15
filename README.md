@@ -4,7 +4,7 @@
 Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para minha vida.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamryaan011&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamryaan011&show_icons=true&theme=dark)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <div>
   <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer">
