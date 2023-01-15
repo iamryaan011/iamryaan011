@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ryan. 👋
 
 <p align="justify">
-  Eu sou um Estudante✏️ de programação <strong>Front-End</strong> apaixonado por tecnologia. Tem 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para a minha vida. Tenho conhecimento em algumas tecnologias, mas as que mais se destacam são:
+  Eu sou um Estudante de programação <strong>Front-End</strong> apaixonado por tecnologia. Tem 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para a minha vida. Tenho conhecimento em algumas tecnologias, mas as que mais se destacam são:
 </p>
 
 <div align="center">
@@ -19,6 +19,8 @@
 ### Meus status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamryaan011&show_icons=true&theme=dark)
+
+
 
 <div align="center">
   <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer">
