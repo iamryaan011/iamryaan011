@@ -1,7 +1,9 @@
 ### Olá ! Eu me chamo Ryan Lima e sou um Dev Front-End. 👋
 
-### Quem é ''Ryan''?
+### Sobre Mim?
 Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que mergulhei de cabeça nesse mundo da programação e decidi que queria isso para minha vida.
+
+### Tecnologias
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
