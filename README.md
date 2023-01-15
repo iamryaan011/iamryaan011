@@ -6,10 +6,10 @@ Eu sou um Estudante de programação apaixonado por tecnologia. Tem 1 ano que me
 ### Tecnologias
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamryaan011&theme=dracula"/> 
+  [Top Languages Card](#top-languages-card)
 </div>
 
-<hr />
+<hr/>
 
 <div>
   <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer">
