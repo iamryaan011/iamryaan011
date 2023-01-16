@@ -16,15 +16,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100px" height="28px"/>  
 </div>
 
-
   - 🌱 Atualmente estou me especializando no desenvolvimento web
   - 👯 Estou procurando colaborar em empresas front-end/web designers
   - 📫 Como entrar em contato comigo: <strong>iamryaan011@gmial.com</strong>
-
-<a href="https://github.com/iamryaan011">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamryaan011&layout=compact&langs_count=7&theme=dracula"/> <img      height="180em"src="https://githubreadmestats.vercel.app/apiusername=iamryaan011&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 
 <div align="center">
   <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer">
