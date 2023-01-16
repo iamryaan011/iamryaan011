@@ -17,7 +17,7 @@
 </div>
 
   - 🌱 Atualmente estou me especializando no desenvolvimento web
-  - 👯 Estou procurando colaborar em empresas front-end/web designers
+  - 👯 Estou procurando colaborar com empresas front-end/web designers
   - 📫 Como entrar em contato comigo: <strong>iamryaan011@gmial.com</strong>
 
 <div align="center">
