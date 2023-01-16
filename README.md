@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100px" height="28px"/>  
 </div>
 
-### Meus status
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamryaan011&show_icons=true&theme=dark)
+<hr />
 
 <div align="center">
   <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer">
