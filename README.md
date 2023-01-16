@@ -16,3 +16,23 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100px" height="28px"/>  
 </div>
 
+### Meus status
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamryaan011&show_icons=true&theme=dark)
+
+<div align="center">
+  <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="123px" height="28px"/>
+  </a>
+
+  <a href="https://www.instagram.com/iamryaan011/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="123px" height="28px"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ryanlima011/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="123px" height="28px"/>
+  </a>
+</div>
+
+
+
