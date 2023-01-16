@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100px" height="28px"/>  
 </div>
 
-# Mais informações
-
 - 🌱 Atualmente estou aprendendo Node.Js
 - 👯 Estou procurando colaborar em empresas front-end/web designers
 - 📫 Como entrar em contato comigo: <strong>iamryaan011@gmial.com</strong>
