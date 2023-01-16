@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100px" height="28px"/>  
 </div>
 
-  - 🌱 Atualmente estou me especializando no desenvolvimento web
-  - 👯 Estou procurando colaborar com empresas front-end/web designers
+  - 💻 Atualmente estou me especializando no desenvolvimento web
+  - 👨‍💻 Estou procurando colaborar com empresas front-end/web designers
   - 📫 Como entrar em contato comigo: <strong>iamryaan011@gmial.com</strong>
 
 <div align="center">
