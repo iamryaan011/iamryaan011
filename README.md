@@ -18,7 +18,7 @@
 
   - 💻 Atualmente estou me especializando no desenvolvimento web
   - 👨‍💻 Estou procurando colaborar com empresas front-end/web designers
-  - 📫 Como entrar em contato comigo: <strong>iamryaan011@gmial.com</strong>
+  - 📫 Como entrar em contato comigo: <strong>iamryaan011@gmail.com</strong>
 
 <div align="center">
   <a href="https://www.facebook.com/ryanlimaaaa/" target="_blank" rel="noreferrer">
