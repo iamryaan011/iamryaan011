@@ -17,7 +17,7 @@
 </div>
 
   - 💻 Atualmente estou me especializando no desenvolvimento web
-  - 👨‍💻 Estou procurando colaborar com empresas front-end/web designers
+  - 👨‍💻 Estou procurando colaborar com empresas como desenvolvedor
   - 📫 Como entrar em contato comigo: <strong>iamryaan011@gmail.com</strong>
 
 <div align="center">
