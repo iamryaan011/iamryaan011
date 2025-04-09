@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white" width="100px" height="28px"/>
-  <img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="100px" height="28px"/>
+  <img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" width="100px" height="28px"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100px" height="28px"/>  
 </div>
 
